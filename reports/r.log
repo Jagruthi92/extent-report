@@ -1,0 +1,11 @@
+2019-08-06 12:07:01 TRACE proprtyile:15 - trace
+2019-08-06 12:07:01 DEBUG proprtyile:16 - debug
+2019-08-06 12:07:01 INFO  proprtyile:17 - info
+2019-08-06 12:07:01 WARN  proprtyile:18 - warn
+2019-08-06 12:07:01 ERROR proprtyile:19 - error
+2019-08-06 12:07:01 FATAL proprtyile:20 - fatal
+2019-08-07 12:02:19 DEBUG cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-07 12:02:19 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-07 12:02:19 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-07 12:02:19 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-07 12:02:19 DEBUG cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Google/new_prj/extent%20report/Copy%20of%20extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
