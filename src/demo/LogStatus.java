@@ -34,6 +34,7 @@ public class LogStatus
 		log.warn("warn");
 		log.error("error");
 		log.fatal("fatal");
+		log.fatal("fatal");
 	}
 	
 }
